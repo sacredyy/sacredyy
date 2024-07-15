@@ -6,12 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/artur-sushkov-b07061304/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/artur_5006/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sacredy27)
-
 </div>
-
-
-
-
   <div id="header" align="center">
     <img src="https://raw.githubusercontent.com/BaggerFast/BaggerFast/main/assets/github-snake.svg"/>
   </div>
