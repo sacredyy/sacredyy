@@ -23,6 +23,6 @@
   
 <div align="center">
     <h2>Skills and tools<h2>
-    <img src="https://skillicons.dev/icons?i=js,nestjs,git"/>
+    <img src="https://skillicons.dev/icons?i=js,nestjs,git,postgres"/>
 </div>
 
